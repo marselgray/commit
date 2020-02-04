@@ -26,6 +26,11 @@ git commit -m 'Fix: Media Conditional'
 git commit -m 'Build: Image Gallery'
 ```
 
+### Notes / CE Lesson
+```
+git commit -m 'Lesson: SVG Paths'
+```
+
 
 You might also consider adding to your commit the url to 
 a task if you are using some sort of Project Managment Software
