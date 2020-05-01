@@ -8,32 +8,32 @@ One of the more universal, yet simple rules is: Function names should be verbs i
 
 ### Adding Files
 ```
-git commit -m 'Add: .gitignore file'
+git commit -m '🎉 Add: .gitignore file'
 ```
 
 ### Deleting Files
 ```
-git commit -m 'Delete: Block Lab Plugin'
+git commit -m '🔥 Delete: Block Lab Plugin'
 ```
 
 ### Updating Files
 ```
-git commit -m 'Update:  News Carousel styles'
+git commit -m '🚀 Update:  News Carousel styles'
 ```
 
 ### Fixing Bugs
 ```
-git commit -m 'Fix: Media Conditional'
+git commit -m '🐛 Fix: Media Conditional'
 ```
 
 ### Building New Features
 ```
-git commit -m 'Build: Image Gallery'
+git commit -m '✨ Build: Image Gallery'
 ```
 
 ### Notes / CE Lesson
 ```
-git commit -m 'Lesson: SVG Paths'
+git commit -m '🍎 Lesson: SVG Paths'
 ```
 
 
